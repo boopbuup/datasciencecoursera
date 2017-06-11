@@ -1,30 +1,4 @@
 
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Gist
-
-    @boopbuup
-
-0
-0
-
-    0
-
-boopbuup/datasciencecoursera
-Code
-Issues 0
-Pull requests 0
-Projects 0
-Wiki
-Settings
-datasciencecoursera/Codebook
-29ac746 32 seconds ago
-@boopbuup boopbuup commit
-54 lines (37 sloc) 3.15 KB
 # Getting and Cleaning Data Project
 
 
@@ -79,7 +53,4 @@ Use gsub function for pattern replacement to clean up the data labels.
 ## Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
  Create data "tidydata.txt"
 
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
 
